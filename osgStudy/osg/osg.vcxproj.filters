@@ -180,6 +180,12 @@
     <ClInclude Include="AnimationPath.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ClipPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadeModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AlphaFunc.cpp">

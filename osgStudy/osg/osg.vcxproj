@@ -132,6 +132,7 @@
     <ClInclude Include="BoundingSphere.h" />
     <ClInclude Include="BoundsChecking.h" />
     <ClInclude Include="Camera.h" />
+    <ClInclude Include="ClipPlane.h" />
     <ClInclude Include="ColorMatrix.h" />
     <ClInclude Include="CopyOp.h" />
     <ClInclude Include="DisplaySettings.h" />
@@ -165,6 +166,7 @@
     <ClInclude Include="Quat.h" />
     <ClInclude Include="Referenced.h" />
     <ClInclude Include="ref_ptr.h" />
+    <ClInclude Include="ShadeModel.h" />
     <ClInclude Include="StateAttribute.h" />
     <ClInclude Include="TexEnv.h" />
     <ClInclude Include="TexGen.h" />
