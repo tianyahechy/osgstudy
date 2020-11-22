@@ -208,6 +208,7 @@
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Projection.cpp" />
     <ClCompile Include="Quat.cpp" />
+    <ClCompile Include="ShadeModel.cpp" />
     <ClCompile Include="TexEnv.cpp" />
     <ClCompile Include="TexGen.cpp" />
     <ClCompile Include="TexMat.cpp" />
