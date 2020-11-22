@@ -87,7 +87,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>E:\引擎学习\osgstudy\trunk\osgStudy;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\引擎学习\osgstudy\trunk\osgStudy;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -125,6 +125,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="AlphaFunc.h" />
+    <ClInclude Include="AnimationPath.h" />
     <ClInclude Include="Array.h" />
     <ClInclude Include="BlendFunc.h" />
     <ClInclude Include="BoundingBox.h" />
