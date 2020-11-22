@@ -36,7 +36,7 @@
 	#endif
 #endif
 
-#include <osg/MemoryManager>
+#include <osg/MemoryManager.h>
 
 
 #endif
