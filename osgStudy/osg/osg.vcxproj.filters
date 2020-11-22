@@ -275,5 +275,8 @@
     <ClCompile Include="Viewport.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="AnimationPath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

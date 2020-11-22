@@ -37,7 +37,7 @@ namespace osg
 				matrix.postMult(osg::Matrix::translate(_position));
 			}
 
-			inline void getInverseMatrix(Matrix& matrix) const
+			inline void getInverse(Matrix& matrix) const
 			{
 				matrix.makeScale(1.0f / _scale.x(), 1.0f / _scale.y(), 1.0f / _scale.z() );
 				matrix.postMult(_rotation.inverse.getMatrix());
