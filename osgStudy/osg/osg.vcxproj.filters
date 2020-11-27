@@ -186,6 +186,18 @@
     <ClInclude Include="ShadeModel.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Stencil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Drawable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Polytope.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AlphaFunc.cpp">
@@ -285,6 +297,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ShadeModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Stencil.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

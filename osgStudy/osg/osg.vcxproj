@@ -136,6 +136,7 @@
     <ClInclude Include="ColorMatrix.h" />
     <ClInclude Include="CopyOp.h" />
     <ClInclude Include="DisplaySettings.h" />
+    <ClInclude Include="Drawable.h" />
     <ClInclude Include="EarthSky.h" />
     <ClInclude Include="export.h" />
     <ClInclude Include="fast_back_stack.h" />
@@ -162,15 +163,18 @@
     <ClInclude Include="Object.h" />
     <ClInclude Include="Plane.h" />
     <ClInclude Include="Point.h" />
+    <ClInclude Include="Polytope.h" />
     <ClInclude Include="Projection.h" />
     <ClInclude Include="Quat.h" />
     <ClInclude Include="Referenced.h" />
     <ClInclude Include="ref_ptr.h" />
     <ClInclude Include="ShadeModel.h" />
     <ClInclude Include="StateAttribute.h" />
+    <ClInclude Include="Stencil.h" />
     <ClInclude Include="TexEnv.h" />
     <ClInclude Include="TexGen.h" />
     <ClInclude Include="TexMat.h" />
+    <ClInclude Include="Texture.h" />
     <ClInclude Include="Timer.h" />
     <ClInclude Include="Transform.h" />
     <ClInclude Include="Transparency.h" />
@@ -209,6 +213,7 @@
     <ClCompile Include="Projection.cpp" />
     <ClCompile Include="Quat.cpp" />
     <ClCompile Include="ShadeModel.cpp" />
+    <ClCompile Include="Stencil.cpp" />
     <ClCompile Include="TexEnv.cpp" />
     <ClCompile Include="TexGen.cpp" />
     <ClCompile Include="TexMat.cpp" />
