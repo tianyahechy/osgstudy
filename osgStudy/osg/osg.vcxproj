@@ -142,6 +142,7 @@
     <ClInclude Include="fast_back_stack.h" />
     <ClInclude Include="Fog.h" />
     <ClInclude Include="FrameStamp.h" />
+    <ClInclude Include="Geode.h" />
     <ClInclude Include="GL.h" />
     <ClInclude Include="GLExtensions.h" />
     <ClInclude Include="GLU.h" />
@@ -207,6 +208,7 @@
     <ClCompile Include="Material.cpp" />
     <ClCompile Include="Matrix.cpp" />
     <ClCompile Include="MatrixTransform.cpp" />
+    <ClCompile Include="MemoryManager.cpp" />
     <ClCompile Include="Notify.cpp" />
     <ClCompile Include="Object.cpp" />
     <ClCompile Include="Point.cpp" />

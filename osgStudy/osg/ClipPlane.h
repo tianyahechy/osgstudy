@@ -5,8 +5,8 @@
 #ifndef OSG_CLIPPLANE
 #define OSG_CLIPPLANE 1
 
-#include <osg/Plane>
-#include <osg/StateAttribute>
+#include "Plane.h"
+#include "StateAttribute.h"
 
 namespace osg {
 

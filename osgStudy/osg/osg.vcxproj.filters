@@ -198,6 +198,9 @@
     <ClInclude Include="Polytope.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Geode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AlphaFunc.cpp">
@@ -300,6 +303,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Stencil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryManager.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
